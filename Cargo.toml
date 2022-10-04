@@ -1,0 +1,5 @@
+[workspace]
+members = [
+#  "crates/music_player"
+  "crates/*"
+]
